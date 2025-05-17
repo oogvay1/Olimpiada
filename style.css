@@ -180,6 +180,63 @@
 
 /* Inomjon */
 
+.section-inomjon {
+    height: 800px;
+    display: flex;
+    align-items: center;
+}
+
+.card {
+    background: #fff;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.card img {
+    width: 400px;
+    height: auto;
+    display: block;
+    border-radius: 8px;
+}
+
+.text {
+    padding: 20px;
+}
+
+.text h2 {
+    margin: 0 0 10px;
+    font-size: 1.5rem;
+}
+
+.text p {
+    margin: 0 0 20px;
+    color: #666;
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+}
+
+button {
+    padding: 10px 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 1rem;
+}
+
+button.primary {
+    background-color: black;
+    color: white;
+}
+
+button.secondary {
+    background-color: #eee;
+    color: #333;
+}
 
 /* Inomjon */
 
