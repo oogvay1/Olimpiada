@@ -16,7 +16,140 @@
 
 
 /* Sardor */
+.header {
+    width: 100%;
+    margin: 0 auto;
 
+}
+
+.Home {
+    display: flex;
+    margin: 10px;
+}
+
+.nav {
+    display: flex;
+    color: black;
+    justify-content: space-between;
+    height: 80px;
+    align-items: center;
+}
+
+.Azimbek {
+
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    color: black;
+    align-items: center;
+}
+
+.Azimbek a {
+    color: black;
+}
+
+.box {
+    max-width: 1400px;
+    width: 850px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 40px;
+}
+
+.box-btn {
+    width: 120px;
+    height: 35px;
+    color: #ffffff;
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.islom {
+    height: 400px;
+    display: flex;
+    align-items: center;
+}
+
+.sardor {
+    display: flex;
+    justify-content: start;
+    font-size: 55px;
+
+}
+
+.nav-bten {
+    width: 100px;
+    height: 30px;
+    color: #ffffff;
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.img1 {
+    width: 1400px;
+
+
+
+}
+
+.box1 {
+
+    max-width: 1400px;
+    width: 1400px;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    color: #fff;
+}
+.box1 h1 {
+    font-size: 50px;
+}
+.nav-bten1 {
+   width: 120px;
+    height: 30px;
+    color: #ffffff;
+    background-color: black;
+    border-radius: 8px;
+    cursor: pointer;
+    font-size: 20px; 
+}
+.shop-header {
+    background-image: url(./img/5232b103830b7cc9a42d4746c4deb07caa32d12d.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.img2 {
+   width: 625px;
+height: 613px;
+}
+.flex-box {
+    
+    
+    display: flex;
+    justify-content: center;
+    gap: 45px;
+}
+
+
+.img3 {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 30px;
+}
+.img3 p {
+    font-size: 20px;
+    color: gray;
+}
 
 /* Sardor */
 
